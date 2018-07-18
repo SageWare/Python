@@ -1,2 +1,2 @@
 # Python
-Racket Projects Repository
+Python Projects Repository
