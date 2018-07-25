@@ -1,4 +1,4 @@
 # Python
 
 ### compare_bool
-* Program that compares two numbers entered by the user
+* Program that compares two integers entered by the user
