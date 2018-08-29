@@ -3,20 +3,20 @@
 #Program that compares two numbers entered by the user
 
 
-#Prompt user to enter first number
+#Function for first number
 def getFirstNumber():
     a = int(input("Enter your first number "))
     return a
 
-#Storing first number input as variable a
+#Prompt & Store first number as variable a
 a = getFirstNumber()
 
-#Prompt user to enter second number
+#Function for second number
 def getSecondNumber():
     b = int(input("Enter your second number "))
     return b
 
-#Storing second number input as variable b
+#Prompt & store second number as variable b
 b = getSecondNumber()
 
 #The Compare Function
@@ -31,14 +31,14 @@ def compare(a, b):
 #a blank line for clean output spacing
 print("")
 
-#Printing the return of The Compare Function's a & b values via user input
+#Compare a and b
 print("The comparison of your numbers return:")
 print(compare(a, b))
 
 #a blank line for clean output spacing
 print("")
 
-#Testing Set Values
+#Testing set values for debugging
 print("The following is a test of set values:")
 print(compare(5,2))
 print(compare(2,5))
