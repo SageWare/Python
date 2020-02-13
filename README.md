@@ -1,7 +1,7 @@
 # Python
 
 ### blastoff
-* Iterates up to down to 0 based on user input; prints blastoff
+* Iterates up to down to 0 based on user input; prints blastoff  
 [View Code](https://github.com/SageWare/Python/blob/master/blastoff/blastoff.py)
 
 ### calculator
@@ -13,5 +13,5 @@
 [View Code](https://github.com/SageWare/Python/blob/master/compare_bool/compare_bool.py)
 
 ### unpickle
-* Unpickle script (note: do not unpickle data received from an untrusted source)
+* Unpickle script (note: do not unpickle data received from an untrusted source)  
 [View Code](https://github.com/SageWare/Python/blob/master/unpickle/unpickle.py)
