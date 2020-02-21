@@ -1,3 +1,8 @@
+##################
+# blastoff
+# Sage Fremont
+##################
+
 # Get user input as a string
 userInput = (int)(input("Please enter an integer: "))
 
